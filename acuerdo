@@ -3,7 +3,7 @@ array = [300070,50520,35000,32810,47999,62050,89100,21000,100010,121900,99549,21
 
 def proyeccion(array,indice_desde,indice_hasta,aumento)
     #sumar los elementos segun los indices
-    # luego aumentar el aumeto en X%
+    # luego aumentar en X%
 
 end
 
